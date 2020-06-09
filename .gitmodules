@@ -1,0 +1,3 @@
+[submodule "VrcMetaTool.NET"]
+	path = src/VrcMetaTool.NET
+	url = git@github.com:KoyashiroKohaku/VrcMetaTool.NET.git
